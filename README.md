@@ -56,8 +56,7 @@ Repositórios
 
 #### 📫 Entre em contato
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario/)
-- E-mail: seu.email@exemplo.com
+- [LinkedIn](https://www.linkedin.com/in/pericles-buarque/)
 
 ---
 
